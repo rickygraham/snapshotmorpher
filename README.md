@@ -1,2 +1,2 @@
 # Snapshot Morpher
-A Max for Live preset modulator for composer, Aaron With
+A Max for Live preset modulator for composer, Aaron With.
