@@ -1,0 +1,25 @@
+{
+	"pattrstorage" : 	{
+		"name" : "local-global",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"matrix" : [ 0, 0, 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"matrix" : [ 0, 0, 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
